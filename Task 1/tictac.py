@@ -1,6 +1,7 @@
 from func import getPos, MovesLeft, printBoard, evaluate, getBestMove
 from copy import deepcopy
-from pdb import set_trace
+
+# Made by Abdus Sami
 
 # Here the player is the computer AI while
 # the opponent is the human playing the game.
