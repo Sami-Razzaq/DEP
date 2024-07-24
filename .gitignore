@@ -1,4 +1,7 @@
 .gitignore
 /Task 1/__pycache__
 /Task 2/__pycache__
+/Task 3/mnist_test.csv
+/Task 3/mnist_train.csv
 /Abdus Sami Task 1.zip
+/Abdus Sami Task 2.zip
